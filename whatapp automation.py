@@ -14,7 +14,7 @@ Using this code you can do all of it and much more!
    
 Note:In sendwhatmsg Function first enter any valid whatsapp number with country code for e.g +91 For India,after number 
    enter the message that you want to send and then enter the time for e.g. if you want to send message at 2:30 pm enter
-   2,30 or at 12:00 am then enter 0,0
+   14,30 or at 12:00 am then enter 0,0
     
 
 
